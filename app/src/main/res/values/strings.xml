@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyTamagotchiApp</string>
+    <string name="play">Play</string>
+    <string name="todo">TODO</string>
+    <string name="say_hi_to_your_tamagotchi_pet">Say Hi to your Tamagotchi Pet!</string>
+</resources>
